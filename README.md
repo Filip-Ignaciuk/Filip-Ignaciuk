@@ -1,6 +1,6 @@
 Welcome to my profile!
 
-I'm currently studying for a and learning c++.
+I'm currently a student, studying for a-levels and learning C++.
 
 My stats
 
