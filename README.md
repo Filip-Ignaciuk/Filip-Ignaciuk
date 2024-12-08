@@ -1,5 +1,3 @@
-Welcome to my profile!
-
 I'm currently a student, studying for a-levels and learning C++.
 
 Currently developing haxel communication and wallpaper changer
